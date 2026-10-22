@@ -1,0 +1,1 @@
+{"version":"0.2.0","configurations":[{"type":"java","name":"ElevatorManager","request":"launch","mainClass":"elevatormanager.ElevatorManager","cwd":"${workspaceFolder}"}]}
