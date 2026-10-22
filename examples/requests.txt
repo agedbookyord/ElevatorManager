@@ -1,0 +1,4 @@
+# Solicitudes cargadas en reset y enviadas al pulsar Start
+INTERNAL 1 5
+EXTERNAL 3 UP
+EXTERNAL 7 DOWN
